@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>简单的数据管理</title>
+<title>数据管理</title>
 </head>
 <body>
 	
@@ -40,9 +40,9 @@
 	</table>
 	<table width="580" border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#C2C2C2">
 	<tr>
-		<td align="right" bgcolor="#FFFFFF"><a href="insert.php">添加</a>&nbsp;&nbsp;</td>
-		<td align="right" bgcolor="#FFFFFF"><a href="update.php">修改</a>&nbsp;&nbsp;</td>
-		<td align="right" bgcolor="#FFFFFF"><a href="delete.php">删除</a>&nbsp;&nbsp;</td>
+		<td align="right" bgcolor="#FFFFFF"><a href="insert.php">添加内容</a>&nbsp;&nbsp;</td>
+		<td align="right" bgcolor="#FFFFFF"><a href="update.php">修改内容</a>&nbsp;&nbsp;</td>
+		<td align="right" bgcolor="#FFFFFF"><a href="delete.php">删除内容</a>&nbsp;&nbsp;</td>
 	</tr>
 	</table>
 </body>
