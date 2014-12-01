@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	require 'config.php';
 	$collection=$db->user;
 
@@ -18,7 +18,7 @@
 			exit();
 		}
 		else {
-			echo  "<script>alert('成功');location.href='show.php'</script>";
+			echo  "<script>alert('成功登陆');location.href='show.php'</script>";
 				}
 			
 	}
