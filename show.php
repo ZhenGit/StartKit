@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>简单地数据管理</title>
+<title>数据管理</title>
 </head>
 <body>
 	
